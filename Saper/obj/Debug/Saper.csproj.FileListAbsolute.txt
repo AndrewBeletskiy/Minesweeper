@@ -1,0 +1,13 @@
+D:\_University\ModellingPO\Saper\Saper\bin\Debug\Saper.exe.config
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+D:\_University\ModellingPO\Saper\Saper\bin\Debug\Saper.exe
+D:\_University\ModellingPO\Saper\Saper\bin\Debug\Saper.pdb
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.exe
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.pdb
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.Boundary.GameForm.resources
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.Boundary.RecordTableForm.resources
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.Boundary.LoginForm.resources
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.Boundary.ChooseModeForm.resources
+D:\_University\ModellingPO\Saper\Saper\obj\Debug\Saper.Boundary.AboutForm.resources
